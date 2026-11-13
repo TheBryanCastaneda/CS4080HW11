@@ -1,0 +1,7 @@
+fun averageWordLength(first, second) {
+  return (len(first) + len(second)) / 2;
+}
+
+print len("hello");
+print len("hello" + "world");
+print averageWordLength("cat", "apple");
